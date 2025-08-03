@@ -22,9 +22,8 @@ This repository contains a Markdown version of my resume along with a downloadab
 
 ---
 
-## 🔐 Notes
-
-> This version has been sanitized for public sharing. No sensitive information like personal ID numbers or full address is included.  
+##  Notes
+ 
 > Last updated: August 2025
 
 ---
